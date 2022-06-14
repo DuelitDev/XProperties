@@ -1,5 +1,8 @@
 # XProperties
-XProperties is a .properties file parser library, which was written to read/write .properties files in languages ​​other than Java.  
+XProperties is a .properties file parser library, which was written to read/write .properties files in languages ​​other than Java. 
+[XProperties for C#](https://github.com/DuelitDev/XProperties-CSharp)  
+[XProperties for Python](https://github.com/DuelitDev/XProperties-Python)  
+[XProperties for Ruby](https://github.com/DuelitDev/XProperties-Ruby) 
 
 ## Documentation
 [C#](https://github.com/DuelitDev/XProperties-CSharp/wiki)  
@@ -7,7 +10,7 @@ XProperties is a .properties file parser library, which was written to read/writ
 [Ruby](https://github.com/DuelitDev/XProperties-Ruby/wiki)  
 
 ## Copyright
-Copyright 2022. Kim-Jaeyun all rights reserved.  
+Copyright 2022. Kim Jae-yun all rights reserved.  
 
 ## License
 [LGPL-2.1 License](https://github.com/DuelitDev/XProperties/blob/master/LICENSE)
