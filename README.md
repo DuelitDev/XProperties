@@ -10,7 +10,7 @@ XProperties is a .properties file parser library, which was written to read/writ
 [Ruby](https://github.com/DuelitDev/XProperties-Ruby/wiki)  
 
 ## Copyright
-Copyright 2022. Kim Jae-yun all rights reserved.  
+Copyright 2023. DuelitDev all rights reserved.  
 
 ## License
 [LGPL-2.1 License](https://github.com/DuelitDev/XProperties/blob/master/LICENSE)
